@@ -53,17 +53,19 @@ El objetivo principal fue aplicar Node.js como tecnología base, estructurar rut
 
 ## Estructura del proyecto
 
+```
 dmc-fan-api/
 ├── package.json
 ├── src/
-│ ├── server.js
-│ ├── routes/
-│ └── data/
+│   ├── server.js
+│   ├── routes/
+│   └── data/
 ├── public/
-│ ├── index.html
-│ ├── style.css
-│ ├── app.js
-│ └── images/
+│   ├── index.html
+│   ├── style.css
+│   ├── app.js
+│   └── images/
+```
 
 
 ---
