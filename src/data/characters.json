@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dante",
+    "name": "Dante",
+    "role": "Cazador de demonios",
+    "style": "Versátil",
+    "description": "Protagonista principal, combate con múltiples armas y estilos.",
+    "image": "images/characters/dante.jpg"
+  },
+  {
+    "id": "vergil",
+    "name": "Vergil",
+    "role": "Rival",
+    "style": "Preciso",
+    "description": "Estilo rápido y controlado, enfocado en eficiencia y técnica.",
+    "image": "images/characters/vergil.jpg"
+  },
+  {
+    "id": "nero",
+    "name": "Nero",
+    "role": "Nueva generación",
+    "style": "Potente",
+    "description": "Combina fuerza con mecánicas modernas y un enfoque directo.",
+    "image": "images/characters/nero.jpg"
+  }
+]

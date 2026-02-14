@@ -1,0 +1,7 @@
+[
+  { "id": "dmc1", "title": "Devil May Cry", "year": 2001, "platform": "PS2", "image": "images/games/dmc1.jpg" },
+  { "id": "dmc2", "title": "Devil May Cry 2", "year": 2003, "platform": "PS2", "image": "images/games/dmc2.jpg" },
+  { "id": "dmc3", "title": "Devil May Cry 3", "year": 2005, "platform": "PS2", "image": "images/games/dmc3.jpg" },
+  { "id": "dmc4", "title": "Devil May Cry 4", "year": 2008, "platform": "PS3/X360", "image": "images/games/dmc4.jpg" },
+  { "id": "dmc5", "title": "Devil May Cry 5", "year": 2019, "platform": "PS4/XOne/PC", "image": "images/games/dmc5.jpg" }
+]

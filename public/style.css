@@ -1,0 +1,22 @@
+.card-img-top {
+  height: 280px;
+  object-fit: cover;
+}
+
+.quote-avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 999px;
+  object-fit: cover;
+  border: 1px solid rgba(255,255,255,0.25);
+}
+
+.logo-navbar {
+  height: 34px;
+  object-fit: contain;
+}
+
+.logo-hero {
+  height: 120px;
+  object-fit: contain;
+}
